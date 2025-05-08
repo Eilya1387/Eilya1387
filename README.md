@@ -13,8 +13,8 @@ I'm a passionate **Front-End Developer** with a love for **Web Development**, **
 - UI/UX Design principles
 
 ## 📬 Let's Connect
-- [Telegram]([https://www.linkedin.com/in/eilya](https://t.me/MOPA_GRP))
-- [Instagram]([https://twitter.com/eilya](https://www.instagram.com/mopa_.group?igsh=MWN5YWdxNTF2ZmR5))
+- [Telegram](https://t.me/MOPA_GRP)
+- [Instagram](https://www.instagram.com/mopa_.group?igsh=MWN5YWdxNTF2ZmR5)
 
 ## 🚀 Check Out My Projects
 - [khaje nasir school](https://eilya1387.github.io/KNTschool/)
