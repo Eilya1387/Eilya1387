@@ -17,9 +17,8 @@ I'm a passionate **Front-End Developer** with a love for **Web Development**, **
 - [Instagram]([https://twitter.com/eilya](https://www.instagram.com/mopa_.group?igsh=MWN5YWdxNTF2ZmR5))
 
 ## 🚀 Check Out My Projects
-- [khaje nasir school]([https://github.com/eilya1387/project1](https://eilya1387.github.io/KNTschool/))
-- [Light & Dark Mode Toggle](https://github.com/eilya1387/Light-Dark-Mode-Toggle)
-- [Loading Animation Page](https://github.com/eilya1387/Loading-Animation)
+- [khaje nasir school](https://eilya1387.github.io/KNTschool/)
+
 
 ---
   
