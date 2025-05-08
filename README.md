@@ -40,3 +40,8 @@ I'm a passionate **Front-End Developer** with a love for **Web Development**, **
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+
+---
+
+![Eilya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eilya1387&show_icons=true&count_private=true&hide=prs&theme=radical)
+
