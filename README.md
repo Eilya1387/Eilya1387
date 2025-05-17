@@ -18,7 +18,9 @@ I'm a passionate **Front-End Developer** with a love for **Web Development**, **
 
 ## 🚀 Check Out My Projects
 - [khaje nasir school](https://eilya1387.github.io/KNTschool/)
-
+- [Lamp bulb](https://eilya1387.github.io/Lamp-bulb/)
+- [The planet](https://eilya1387.github.io/The-planet/)
+- [day & night animation](https://eilya1387.github.io/day-night-animation/)
 
 ---
   
@@ -43,5 +45,4 @@ I'm a passionate **Front-End Developer** with a love for **Web Development**, **
 
 ---
 
-![Eilya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eilya1387&show_icons=true&count_private=true&hide=prs&theme=radical)
 
