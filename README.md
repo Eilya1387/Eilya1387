@@ -4,10 +4,11 @@ I'm a passionate **Front-End Developer** with a love for **Web Development**, **
 
 ## 🔧 Technologies I Use
 - HTML, CSS, JavaScript
-- React, Next.js
+- React,Sass
 - Git, GitHub
 
 ## 🌱 Currently Learning
+- Next.js
 - PHP
 - C#
 - UI/UX Design principles
@@ -18,9 +19,8 @@ I'm a passionate **Front-End Developer** with a love for **Web Development**, **
 
 ## 🚀 Check Out My Projects
 - [khaje nasir school](https://eilya1387.github.io/KNTschool/)
-- [Lamp bulb](https://eilya1387.github.io/Lamp-bulb/)
-- [The planet](https://eilya1387.github.io/The-planet/)
-- [day & night animation](https://eilya1387.github.io/day-night-animation/)
+- [Aparat](https://aparat-phi.vercel.app/)
+- [Fastfood Restaurant](https://fastfood-weld.vercel.app/)
 
 ---
   
