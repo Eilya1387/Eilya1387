@@ -4,7 +4,7 @@ I'm a passionate **Front-End Developer** with a love for **Web Development**, **
 
 ## 🔧 Technologies I Use
 - HTML, CSS, JavaScript
-- React,Sass
+- React,Sass,Tailwind css
 - Git, GitHub
 
 ## 🌱 Currently Learning
@@ -19,8 +19,9 @@ I'm a passionate **Front-End Developer** with a love for **Web Development**, **
 
 ## 🚀 Check Out My Projects
 - [khaje nasir school](https://eilya1387.github.io/KNTschool/)
-- [Aparat](https://aparat-phi.vercel.app/)
-- [Fastfood Restaurant](https://fastfood-weld.vercel.app/)
+- [Aparat](https://my-aparat.vercel.app/)
+- [Fastfood Restaurant](https://mcdonald-fastfood.vercel.app/)
+- [Filimo](https://my-filimo.vercel.app/)
 
 ---
   
@@ -33,6 +34,7 @@ I'm a passionate **Front-End Developer** with a love for **Web Development**, **
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
