@@ -3,15 +3,13 @@
 I'm a passionate **Front-End Developer** with a love for **Web Development**, **UI/UX Design**, and **Open Source**. I enjoy creating beautiful, interactive websites and learning new technologies.
 
 ## 🔧 Technologies I Use
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, TypeScript
 - React,Sass,Tailwind css
-- Git, GitHub
 
 ## 🌱 Currently Learning
 - Next.js
 - PHP
 - C#
-- UI/UX Design principles
 
 ## 📬 Let's Connect
 - [Telegram](https://t.me/coffeee-web)
