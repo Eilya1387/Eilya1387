@@ -16,7 +16,7 @@ I'm a passionate **Front-End Developer** with a love for **Web Development**, **
 
 
 ## 🚀 Check Out My Projects
-- [khaje nasir school](https://eilya1387.github.io/KNTschool/)
+- [khaje nasir school](https://nasirsch.ir/)
 - [Aparat](https://myaparat.vercel.app/)
 - [Fastfood Restaurant](https://mcdonald-fastfood.vercel.app/)
 - [Filimo](https://my-filimo.vercel.app/)
