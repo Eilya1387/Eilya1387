@@ -17,6 +17,8 @@ I'm a passionate **Front-End Developer** with a love for **Web Development**, **
 ## 🚀 Check Out My Projects
 - [portfolio Eilya](https://Eilyadev.ir)
 - [khaje nasir school](https://nasirsch.ir/)
+- [Eagerdevelopers](https://eagerdevelopers.ir/)
+- [Navazino](https://Navazino.com/)
 - [Aparat](https://myaparat.vercel.app/)
 - [Fastfood Restaurant](https://mcdonald-fastfood.vercel.app/)
 - [Filimo](https://my-filimo.vercel.app/)
