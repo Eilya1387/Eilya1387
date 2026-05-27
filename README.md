@@ -40,6 +40,7 @@
 | Project Name | Live Link |
 |:---|:---|
 | 💼 **Portfolio Eilya** | [Eilyadev.ir](https://Eilyadev.ir) |
+| 🔮 **Eyes on studio** | [EyesOnStudio](https://eyeson-mu.vercel.app) |
 | 🏫 **Khaje Nasir School** | [nasirsch.ir](https://nasirsch.ir/) |
 | 👨‍💻 **Eager Developers** | [eagerdevelopers.ir](https://eagerdevelopers.ir/) |
 | 🎶 **Navazino** | [Navazino.com](https://Navazino.com/) |
