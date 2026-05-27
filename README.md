@@ -1,50 +1,58 @@
-# Hi there, I'm Eilya!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=Hello,%20I'm%20Eilya!&fontSize=50&fontColor=00e5ff&animation=twinkling" alt="Header Banner" />
+</div>
 
-I'm a passionate **Front-End Developer** with a love for **Web Development**, **UI/UX Design**, and **Open Source**. I enjoy creating beautiful, interactive websites and learning new technologies.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Creative+Front-End+Developer+%F0%9F%92%BB;Crafting+Modern+UI%2FUX+%E2%9C%A8;React,+Next.js+%26+Astro+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Tech+%F0%9F%8C%B1" alt="Typing SVG" />
+  </a>
+</h1>
 
-## 🔧 Technologies I Use
-- HTML, CSS, JavaScript, TypeScript
-- React,Sass,Tailwind css
-- Next.js
-## 🌱 Currently Learning
-- PHP
-- C#
-
-## 📬 Let's Connect
-- [Telegram](https://t.me/coffeee-web)
-
-
-## 🚀 Check Out My Projects
-- [portfolio Eilya](https://Eilyadev.ir)
-- [khaje nasir school](https://nasirsch.ir/)
-- [Eagerdevelopers](https://eagerdevelopers.ir/)
-- [Navazino](https://Navazino.com/)
-- [Aparat](https://myaparat.vercel.app/)
-- [Fastfood Restaurant](https://mcdonald-fastfood.vercel.app/)
-- [Filimo](https://my-filimo.vercel.app/)
+<p align="center">
+  Passionate <b>Front-End Developer</b> specializing in Web Development, UI/UX Design, and Open Source.<br/>
+  I thrive on creating highly interactive, smooth-performing web applications with a modern aesthetic!
+</p>
 
 ---
+
+### 💻 Tech Stack & Tools
+
+<div align="center">
   
-# Skills & Technologies 💻
+**🚀 Technologies I Use:** <br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,sass,mysql&theme=dark" alt="My Tech Stack" />
+</a>
 
-## 🚀 Technologies I’m Comfortable With:
+<br/>
 
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
----
+**🌱 Currently Learning:** <br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,cs&theme=dark" alt="Learning Tech" />
+</a>
 
-## 🛠 Technologies I’m Learning:
-
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+</div>
 
 ---
 
+### 🚀 Featured Projects
 
+| Project Name | Live Link |
+|:---|:---|
+| 💼 **Portfolio Eilya** | [Eilyadev.ir](https://Eilyadev.ir) |
+| 🏫 **Khaje Nasir School** | [nasirsch.ir](https://nasirsch.ir/) |
+| 👨‍💻 **Eager Developers** | [eagerdevelopers.ir](https://eagerdevelopers.ir/) |
+| 🎶 **Navazino** | [Navazino.com](https://Navazino.com/) |
+| 🎥 **Aparat Clone** | [myaparat.vercel.app](https://myaparat.vercel.app/) |
+| 🍔 **Fastfood Restaurant** | [mcdonald-fastfood.vercel.app](https://mcdonald-fastfood.vercel.app/) |
+| 🎬 **Filimo Clone** | [my-filimo.vercel.app](https://my-filimo.vercel.app/) |
+
+---
+
+### 📬 Let's Connect
+
+<div align="center">
+  <a href="https://web.telegram.org/k/#@Eilyamaster">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
