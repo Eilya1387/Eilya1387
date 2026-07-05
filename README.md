@@ -21,8 +21,12 @@
   
 **🚀 Technologies I Use:** <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,sass,mysql&theme=dark" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,sass,mysql,linux&theme=dark" />
 </a>
+
+<br/>
+
+<img src="https://cdn.simpleicons.org/greensock/88CE02" height="48" alt="GSAP" />
 
 <br/>
 
